@@ -1,7 +1,7 @@
 FREE CPU+NET
 -----------------
 
-Example game session using cleos
+Example session using cleos
 -------
 #### Prerequisites
 
